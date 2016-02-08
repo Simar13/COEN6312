@@ -1,0 +1,5 @@
+Functional Requirements
+➢         Sign Up: Guest user can register with flight reservation system by signing up. User will gets login credentials after signing up.
+➢         Authenticated Login: The system must provide Users a valid access. Registered Users should be able to logged in conveniently and unauthorized Users must be prevented the access of whole system as of security concerns. There will be different privileges allocated to type of Users such as guest User, registered User/User, and Admin etc.
+➢         View boarding pass/ticket: Registered Users must be able to view their boarding pass after a successful login to check flight details or take a printout of ticket.
+➢         Manage User’s account: User should be given privilege to create and update their profiles containing basic information.
